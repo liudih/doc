@@ -4,3 +4,5 @@
 
 > 使用 https://docsify.js.org/#/zh-cn/deploy  部署
 
+> 插件： https://github.com/iPeng6/docsify-sidebar-collapse
+
