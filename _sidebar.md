@@ -9,3 +9,11 @@
     - [ubuntu]
       - [ssh](/yunwei/ubuntu/ssh)
       - [grep](/yunwei/ubuntu/grep)
+
+  - [编程]
+    - [java杂项](/编程/java杂项)    
+    - [mysql相关问题](/编程/mysql相关问题)
+
+  - [win10]
+    - [win10优化](/win10/win10优化)    
+    
