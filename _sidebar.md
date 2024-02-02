@@ -11,7 +11,9 @@
       - [grep](/yunwei/ubuntu/grep)
 
   - [编程]
-    - [java杂项](/编程/java杂项)    
+    - [general]
+      - [新手入门](/编程/general/新手入门)
+    - [java杂项](/编程/java杂项)
     - [mysql相关问题](/编程/mysql相关问题)
 
   - [win10]
