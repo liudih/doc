@@ -18,7 +18,7 @@ mkdir test
 goland test
 
 go run main.go
-go mod init liudi.com/test
+go mod init liudi.com/test   # 此命令会创建go.mod文件
 go get -u github.com/gin-gonic/gin
 # 安装项目依赖
 go get
